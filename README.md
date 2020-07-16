@@ -1,3 +1,8 @@
+
+## TODO 
+
+- [] change table names as per per v2
+
 # Radiance
 
 Radiance is a BitTorrent tracker written in C++ for the [Luminance](http://www.github.com/Empornium/Luminance) project. It supports requests over TCP and can track both IPv4 and IPv6 peers in a dual-stack mixed swarm.
@@ -67,3 +72,5 @@ Obs: Configure flags `--with-jemalloc` and `--enable-debug` doesn't work  on Fre
 
 * `SIGHUP` - Reload config
 * `SIGUSR1` - Reload torrent list, user list and client blacklist
+
+
