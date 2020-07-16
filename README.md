@@ -1,7 +1,7 @@
 
 ## TODO 
 
-- [] change table names as per per v2
+- change table names as per per v2
 
 # Radiance
 
