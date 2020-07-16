@@ -5,7 +5,6 @@
 
 - change table names as per v2
 
->>>>>>> parent of d7bf855... Update README.md
 # Radiance
 
 Radiance is a BitTorrent tracker written in C++ for the [Luminance](http://www.github.com/Empornium/Luminance) project. It supports requests over TCP and can track both IPv4 and IPv6 peers in a dual-stack mixed swarm.
