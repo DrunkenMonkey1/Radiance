@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 =======
 
 ## TODO 
 
-- [] change table names as per per v2
+- change table names as per v2
 
 >>>>>>> parent of d7bf855... Update README.md
 # Radiance
